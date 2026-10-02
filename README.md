@@ -209,4 +209,4 @@ Pegasus Mail is a full free version with all features and updates included. Ther
 Don’t miss out on the chance to enhance your email experience. **Download Pegasus Mail for free today!**
 
 ---
-**Last updated:** 2026-10-01 20:08:42 UTC
+**Last updated:** 2026-10-02 00:32:55 UTC
